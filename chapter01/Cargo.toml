@@ -14,3 +14,7 @@ path = "src/intro_generics.rs"
 [[bin]]
 name = "intro_functions"
 path = "src/intro_functions.rs"
+
+[[bin]]
+name = "intro_iterators"
+path = "src/intro_iterators.rs"
