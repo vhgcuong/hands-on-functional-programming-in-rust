@@ -18,3 +18,7 @@ path = "src/intro_functions.rs"
 [[bin]]
 name = "intro_iterators"
 path = "src/intro_iterators.rs"
+
+[[bin]]
+name = "intro_expressions"
+path = "src/intro_expressions.rs"
