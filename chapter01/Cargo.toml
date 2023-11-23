@@ -26,3 +26,7 @@ path = "src/intro_expressions.rs"
 [[bin]]
 name = "intro_binding"
 path = "src/intro_binding.rs"
+
+[[bin]]
+name = "intro_datatypes"
+path = "src/intro_datatypes.rs"
