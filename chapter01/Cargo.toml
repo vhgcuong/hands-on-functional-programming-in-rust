@@ -30,3 +30,7 @@ path = "src/intro_binding.rs"
 [[bin]]
 name = "intro_datatypes"
 path = "src/intro_datatypes.rs"
+
+[[bin]]
+name = "intro_mixoopfp"
+path = "src/intro_mixoopfp.rs"
