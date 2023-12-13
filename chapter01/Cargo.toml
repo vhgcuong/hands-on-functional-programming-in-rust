@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+cached = "0.46.1"
+lazy_static = "1.4.0"
 
 [[bin]]
 name = "intro_generics"
@@ -34,3 +36,7 @@ path = "src/intro_datatypes.rs"
 [[bin]]
 name = "intro_mixoopfp"
 path = "src/intro_mixoopfp.rs"
+
+[[bin]]
+name = "intro_patterns"
+path = "src/intro_patterns.rs"
